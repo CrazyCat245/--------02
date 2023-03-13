@@ -1,0 +1,16 @@
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\bin\Debug\視窗程式設計作業01.exe.config
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\bin\Debug\視窗程式設計作業01.exe
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\bin\Debug\視窗程式設計作業01.pdb
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\obj\Debug\視窗程式設計作業01.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\obj\Debug\視窗程式設計作業01.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\obj\Debug\App.g.cs
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\obj\Debug\視窗程式設計作業01_MarkupCompile.cache
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\obj\Debug\視窗程式設計作業01_MarkupCompile.lref
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\obj\Debug\MainWindow.baml
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\obj\Debug\視窗程式設計作業01.g.resources
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\obj\Debug\視窗程式設計作業01.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\obj\Debug\視窗程式設計作業01.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\obj\Debug\視窗程式設計作業01.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\obj\Debug\視窗程式設計作業01.exe
+C:\Users\ASUS\OneDrive\桌面\MoviePlayer2\視窗程式設計作業01\視窗程式設計作業01\obj\Debug\視窗程式設計作業01.pdb
